@@ -1,0 +1,4 @@
+bp.transform.BPTransformerFactoryBA2HexStr
+bp.transform.BPTransformerFactoryBA2Base64
+bp.transform.BPTransformerFactoryImage2BA
+bp.transform.BPTransformerFactoryParseJSON
