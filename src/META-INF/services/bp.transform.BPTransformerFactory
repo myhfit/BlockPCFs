@@ -1,4 +1,6 @@
 bp.transform.BPTransformerFactoryBA2HexStr
 bp.transform.BPTransformerFactoryBA2Base64
+bp.transform.BPTransformerFactoryBase642BA
 bp.transform.BPTransformerFactoryImage2BA
 bp.transform.BPTransformerFactoryParseJSON
+bp.transform.BPTransformerFactoryStringTrim
