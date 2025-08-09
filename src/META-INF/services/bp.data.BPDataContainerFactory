@@ -1,2 +1,3 @@
 bp.data.BPDSVContainerFactory$BPCSVContainerFactory
 bp.data.BPDSVContainerFactory$BPTSVContainerFactory
+bp.data.BPYAMLContainerBase$BPYAMLContainerFactory

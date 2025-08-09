@@ -13,5 +13,6 @@ public class BPFormatFactoryCFs implements BPFormatFactory
 		regfunc.accept(new BPFormatM3U());
 		regfunc.accept(new BPFormatM3U8());
 		regfunc.accept(new BPFormatXML());
+		regfunc.accept(new BPFormatYAML());
 	}
 }
